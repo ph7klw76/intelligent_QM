@@ -10,5 +10,13 @@ b. Transformer ML [📄 Download the PDF](https://github.com/ph7klw76/intelligen
 
 c. Details of Knoweldge and Examples to understand the above paper [📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/Solving%20the%20many-electron%20Schr%C3%B6dinger%20equation%20with%20a%20transformer-based.pdf))
 
-d) [Finding the first excitated state of water based on above method](water.py)          [Required basis set](basis.py)
+
+
+
+d) ### work in progress
+[Finding the first excitated state of water based on above method](water.py)          [Required basis set](basis.py)
+
+
+python water.py --fcidump H2O_STO3G.FCIDUMP --fcidump_type spatial --nalpha 5 --nbeta 5 --device cuda --iters_gs 200 --iters_es 300 --batch 192 --lr 1e-3 --amp bf16 --grad_ckpt 1 --ortho_lambda 10.0 --overlap_nsamp 2048 --seed_es_ph_iters 200
+
   
