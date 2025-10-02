@@ -12,8 +12,8 @@ c. Details of Knoweldge and Examples to understand the above paper [📄 Downloa
 
 
 
-
-d) ### work in progress
+### work in progress
+d) 
 [Finding the first excitated state of water based on above method](water.py)          [Required basis set](basis.py)
 
 
