@@ -1,4 +1,4 @@
-# Papers
+# Collection of Breakthrough Papers on Machine Learnings that Employed Quantum Mechanics for Future Materials Design
 
 
 ## [1.Solving the many-electron Schrödinger equation with a transformer-based framework](https://www.nature.com/articles/s41467-025-63219-2)
