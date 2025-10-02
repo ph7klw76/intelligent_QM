@@ -6,11 +6,12 @@
 
 a. Brief Introduction of Second Quantization of Quantum Mechanics[📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/2nd%20quantization%20of%20QM2.pdf))
 
-useful codes: 
 
 i) Exact ground-state energy of the Helium atom from a second-quantized electronic [Hamiltonian](https://github.com/ph7klw76/intelligent_QM/blob/main/ground-state-energy-of-the%20Helium.py)
 
 b. Transformer ML [📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/Transformer%20ML.pdf))
+
+i) Physics informed Transformer Heat Equation [Forecasting](transformer_heat.py)
 
 c. Details of Knoweldge and Examples to understand the above paper [📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/Solving%20the%20many-electron%20Schr%C3%B6dinger%20equation%20with%20a%20transformer-based.pdf))
 
