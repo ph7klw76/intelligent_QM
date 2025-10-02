@@ -6,7 +6,7 @@
 
 a. Brief Introduction of Second Quantization of Quantum Mechanics[📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/2nd%20quantization%20of%20QM2.pdf))
 
-### useful codes: 
+useful codes: 
 
 i) Exact ground-state energy of the Helium atom from a second-quantized electronic [Hamiltonian](https://github.com/ph7klw76/intelligent_QM/blob/main/ground-state-energy-of-the%20Helium.py)
 
