@@ -5,5 +5,5 @@
 
 prerequite knowledge
 
-a. Brief Introduction of Second Quantization of Quantum Mechanics([2nd quantization of QM2.pdf](https://github.com/ph7klw76/intelligent_QM/blob/main/2nd%20quantization%20of%20QM2.pdf))
+a. Brief Introduction of Second Quantization of Quantum Mechanics[📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/2nd%20quantization%20of%20QM2.pdf))
   
