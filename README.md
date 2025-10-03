@@ -24,4 +24,4 @@ d) CUDA NVIDIA 8GB hardware is used to run Transformer
 
 python water.py --fcidump H2O_STO3G.FCIDUMP --fcidump_type spatial --nalpha 5 --nbeta 5 --device cuda --iters_gs 200 --iters_es 300 --batch 192 --lr 1e-3 --amp bf16 --grad_ckpt 1 --ortho_lambda 10.0 --overlap_nsamp 2048 --seed_es_ph_iters 200
 
-  
+## [2. Accurate computation of quantum excited states with neural networks](https://www.science.org/doi/10.1126/science.adn0137)
