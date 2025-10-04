@@ -14,7 +14,8 @@ b. Transformer ML [📄 Download the PDF](https://github.com/ph7klw76/intelligen
 i) Physics informed Transformer Heat Equation [Forecasting](transformer_heat.py)
 
 c. Details of Knoweldge and Examples to understand the above paper [📄 Download the PDF](https://github.com/ph7klw76/intelligent_QM/blob/main/Solving%20the%20many-electron%20Schr%C3%B6dinger%20equation%20with%20a%20transformer-based.pdf))
-
+ i. [Tiny Variational Monte Carlo](VMC_dimer.py)
+ ii. [Autoregressive sampler on bitstrings with a fixed electron number](bitstrings.py)
 
 
 ### work in progress
